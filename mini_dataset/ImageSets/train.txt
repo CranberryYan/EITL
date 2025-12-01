@@ -1,0 +1,4 @@
+0
+cmnist_1
+spnist_7075
+Tp_S_NRN_S_O_nat00032_nat00032_00947
